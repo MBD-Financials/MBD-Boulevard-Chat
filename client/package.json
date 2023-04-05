@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage":"https://heroic-kleicha-111951.netlify.app/",
   "private": false,
   "version": "0.0.0",
   "type": "module",
